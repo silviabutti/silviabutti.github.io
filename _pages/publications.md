@@ -17,22 +17,22 @@ author_profile: true
     An extended abstract, Algebraic Approach to Approximation,  appeared in **LICS2024** [PDF](https://dl.acm.org/doi/pdf/10.1145/3661814.3662076) [DOI](https://dl.acm.org/doi/10.1145/3661814.3662076)
 * *Fixed-Template Promise Model Checking Problems*  
     K. Asimi, L. Barto and S. Butti  
-    **CP2022** [PDF][DOI]  
+    **CP2022** [PDF](https://arxiv.org/pdf/2205.04787)[DOI](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CP.2022.2)  
 * *Weisfeiler-Leman Invariant Promise Valued CSPs*  
     L. Barto and S. Butti  
-    **CP2022** [PDF][DOI]
+    **CP2022** [PDF](https://arxiv.org/pdf/2205.04805) [DOI](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CP.2022.4)
 * *Fractional homomorphism, Weisfeiler-Leman invariance, and the Sherali-Adams hierarchy for the Constraint Satisfaction Problem*  
     S. Butti and V. Dalmau  
-    **MFCS2021** [PDF][DOI]
+    **MFCS2021** [PDF](https://arxiv.org/pdf/2107.02956) [DOI](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.MFCS.2021.27)
 * *The Complexity of the Distributed Constraint Satisfaction Problem*  
     S. Butti and V. Dalmau  
-    **Theory of Computing Systems (STACS special issue)** 68, 838–867, 2024 [PDF] [DOI]  
-    An extended abstract appeared in **STACS2021** [PDF][DOI]
+    **Theory of Computing Systems (STACS special issue)** 68, 838–867, 2024 [PDF](https://link.springer.com/content/pdf/10.1007/s00224-022-10091-y.pdf) [DOI](https://link.springer.com/article/10.1007/s00224-022-10091-y)  
+    An extended abstract appeared in **STACS2021** [PDF](https://arxiv.org/pdf/2007.13594)[DOI] (https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.STACS.2021.20)
 * *Stochastic Local Search Algorithms for Constraint Satisfaction*  
     S. Butti and V. Dalmau  
     **CP2020** doctoral program [PDF]
 * *Sparsification of Binary CSPs*  
     S. Butti and S. Živný  
-    **SIAM Journal on Discrete Mathematics**, 34(1), 825-842, 2020. [PDF][DOI]  
-    An extended abstract appeared in **STACS2019** [PDF][DOI]
+    **SIAM Journal on Discrete Mathematics**, 34(1), 825-842, 2020. [PDF](https://arxiv.org/pdf/1901.00754) [DOI](https://epubs.siam.org/doi/10.1137/19M1242446)  
+    An extended abstract appeared in **STACS2019** [PDF](https://drops.dagstuhl.de/storage/00lipics/lipics-vol126-stacs2019/LIPIcs.STACS.2019.17/LIPIcs.STACS.2019.17.pdf) [DOI](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.STACS.2019.17)
 
