@@ -11,12 +11,12 @@ author_profile: true
 
 * Optimal Inapproximability of Promise Equations over Finite Groups
     S. Butti, A. Larrauri and S. Živný
-    **ICALP2025** [PDF][DOI]
+    **ICALP2025** [PDF](https://arxiv.org/abs/2411.01630)[DOI](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ICALP.2025.38)
 
 * The Rise of Plurimorphisms: Algebraic Approach to Approximation
     L. Barto, S. Butti, A. Kazda, C. Viola and S. Živný
-    Submitted, 2025 [PDF]
-    An extended abstract, Algebraic Approach to Approximation,  appeared in **LICS2024** [PDF][DOI]
+    Submitted, 2025 [PDF](https://arxiv.org/abs/2401.15186)
+    An extended abstract, Algebraic Approach to Approximation,  appeared in **LICS2024** [PDF](https://dl.acm.org/doi/pdf/10.1145/3661814.3662076) [DOI](https://dl.acm.org/doi/10.1145/3661814.3662076)
 
 * Fixed-Template Promise Model Checking Problems
     K. Asimi, L. Barto and S. Butti
