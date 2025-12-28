@@ -23,6 +23,6 @@ author_profile: true
 I have collaborated with a number of excellent outreach initiatives, including:
 
 * [Maths Fest](https://maths-fest.com/)
-* [The Royal Institution Masterclasses in Computer Science](https://www.rigb.org)
+* [The Royal Institution Masterclasses in Computer Science](https://www.rigb.org/learning/ri-masterclasses)
 * [The UNIQ Summer School](https://www.uniq.ox.ac.uk)
-* [The Oxford Computer Science Challenge Club](https://www.cs.ox.ac.uk)
+* [The Oxford Computer Science Challenge Club](https://www.cs.ox.ac.uk/challengeclub/)
