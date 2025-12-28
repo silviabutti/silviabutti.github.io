@@ -27,7 +27,7 @@ author_profile: true
 * *The Complexity of the Distributed Constraint Satisfaction Problem*  
     S. Butti and V. Dalmau  
     **Theory of Computing Systems (STACS special issue)** 68, 838–867, 2024 [PDF](https://link.springer.com/content/pdf/10.1007/s00224-022-10091-y.pdf) [DOI](https://link.springer.com/article/10.1007/s00224-022-10091-y)  
-    An extended abstract appeared in **STACS2021** [PDF](https://arxiv.org/pdf/2007.13594)[DOI] (https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.STACS.2021.20)
+    An extended abstract appeared in **STACS2021** [PDF](https://arxiv.org/pdf/2007.13594) [DOI](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.STACS.2021.20)
 * *Stochastic Local Search Algorithms for Constraint Satisfaction*  
     S. Butti and V. Dalmau  
     **CP2020** doctoral program [PDF](files/CP2020_SButti_camera-ready.pdf)
