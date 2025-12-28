@@ -1,9 +1,11 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
+
+## Publications and pre-prints
 
 * *The Sherali-Adams and Weisfeiler-Leman hierarchies in (Promise Valued) Constraint Satisfaction Problems*  
     L. Barto, S. Butti and V. Dalmau  
@@ -37,7 +39,7 @@ author_profile: true
     An extended abstract appeared in **STACS2019** [PDF](https://drops.dagstuhl.de/storage/00lipics/lipics-vol126-stacs2019/LIPIcs.STACS.2019.17/LIPIcs.STACS.2019.17.pdf) [DOI](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.STACS.2019.17)
 
 
-### Theses
+## Theses
 
 * Symmetries in Constraint Satisfaction: Weisfeiler-Leman Invariance and Promise Problems  
     **PhD thesis**, Department of Information and Communication Technologies, Universitat Pompeu Fabra, 2022. [PDF](files/Thesis_SB.pdf)
