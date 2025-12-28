@@ -5,24 +5,24 @@ permalink: /talks/
 author_profile: true
 ---
 
-### Selected academic talks (  **!**  denotes invited talks)
+### Academic talks
 
 - *Optimal Inapproximability of Promise Equations over Finite Groups*
-  - ICALP2025, Aarhus, Denmark, July 2025.
-  - Dagstuhl seminar 25211 The CSP: Complexity and Approximability, Schloss Dagstuhl, May 2025.
+  - [ICALP2025](https://conferences.au.dk/icalp2025), Aarhus, Denmark, July 2025.
+  - Dagstuhl seminar 25211 [The CSP: Complexity and Approximability](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/25211), Schloss Dagstuhl, May 2025.
 - *Constraint Satisfaction Problems: when complexity meets algebra*
-  - LMH Maths Seminar, Oxford, November 2024.
-  - Oxbridge Women in Computer Science Conference, Cambridge, April 2023.
+  - [LMH Maths Seminar](https://www.lmh.ox.ac.uk/prospective-students/undergraduate/courses/mathematics), Oxford, November 2024.
+  - [Oxbridge Women in Computer Science Conference](https://www.oxbridge2023.com/), Cambridge, April 2023.
 - *Algebraic Approach to Approximation*
-  - LICS2024, Tallinn, July 2024.
+  - [LICS2024](https://lics.siglog.org/lics24/), Tallinn, July 2024.
 - *Plurimorphisms, and How to Use Them*
-  - Birmingham CSP Meeting, Birmingham, May 2024.
+  - [Birmingham CSP Meeting](https://jakub-oprsal.info/bcm2024/), Birmingham, May 2024.
 - *Promise Valued CSPs: an algebraic framework for approximation problems*
-  - Algorithms and Complexity Theory seminar, Oxford, November 2023.
-  - ACiD: Algorithms and Complexity in Durham seminar, Durham, November 2023.
-  - Combinatorial Problems in Model Theory and Computer Science, Leeds, November 2023. **[invited]**
-  - CWC2023, Weissensee, September 2023.
-  - Siena Algebra Week, Siena, July 2023. [slides]  **[invited]**
+  - [Algorithms and Complexity Theory seminar](https://www.cs.ox.ac.uk/seminars/2603.html), Oxford, November 2023.
+  - [ACiD: Algorithms and Complexity in Durham seminar](https://algorithmscomplexity.webspace.durham.ac.uk/seminars/), Durham, November 2023.
+  - [Combinatorial Problems in Model Theory and Computer Science](https://sites.google.com/view/combprob2023/home?authuser=0), Leeds, November 2023. **[invited]**
+  - [CWC2023](https://cspworldcongress.org/), Weissensee, September 2023.
+  - [Siena Algebra Week](https://algebraweeksiena.wordpress.com/), Siena, July 2023. [slides]  **[invited]**
 - *Weisfeiler-Leman Invariant Promise Valued CSPs*
   - CP2022 (part of FLoC2022), Haifa, August 2022. [slides]
 - *Fixed-Template Promise Model Checking Problems*
