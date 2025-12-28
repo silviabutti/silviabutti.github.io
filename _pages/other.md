@@ -26,9 +26,3 @@ My PhD was jointly supported by the INPhINIT fellowship programme of “la Caixa
 - [Sociedad para el Estudio Multidisciplinar y Fundamental](http://semf.org.es/inicio.html)
 
 
-img {
-  display: block;
-  margin: auto;
-  width: 40%;
-}
-<img src="images/mwbd.png" alt="Math-with-bad-drawings" style="width:40%">
