@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "contrast" # the available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "dirt" # the available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Silvia Butti"
 title_separator          : "-"
 name                     : &name "Silvia Butti"
@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Lecturer in Computer Science  Department of Informatics"
   location         : # ""
-  employer         : "King's College London"
+  employer         : "King's College London  under construction"
   uri              : "https://www.kcl.ac.uk/people/silvia-butti"
   email            : "silvia.butti@kcl.ac.uk" 
 
