@@ -7,7 +7,7 @@ author_profile: true
 
 * The Sherali-Adams and Weisfeiler-Leman hierarchies in (Promise Valued) Constraint Satisfaction Problems
     L. Barto, S. Butti and V. Dalmau
-    To appear in **ACM Transactions on Computation Theory**, 2025 [PDF]
+    To appear in **ACM Transactions on Computation Theory**, 2025 [[PDF]](https://arxiv.org/abs/2401.16998)
 
 * Optimal Inapproximability of Promise Equations over Finite Groups
     S. Butti, A. Larrauri and S. Živný
