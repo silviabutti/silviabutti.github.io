@@ -23,7 +23,7 @@ repository               : "silviabutti/silviabutti.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "CS-portrait.jpg"
+  avatar           : "bio-photo.jpg"
   name             : "Silvia Butti"
   pronouns         : # example: "she/her"  
   bio              : "Lecturer in Computer Science"
