@@ -8,12 +8,12 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # the available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "sunrise" # the available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Silvia Butti"
 title_separator          : "-"
 name                     : &name "Silvia Butti"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://silviabutti.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "silviabutti/silviabutti.github.io"
@@ -26,9 +26,9 @@ author:
   avatar           : "bio-photo.jpg"
   name             : "Silvia Butti"
   pronouns         : # example: "she/her"  
-  bio              : "Lecturer in Computer Science"
-  location         : # "Department of Informatics"
-  employer         : "Department of Informatics  King's College London"
+  bio              : "Lecturer in Computer Science"  "Department of Informatics"
+  location         : # ""
+  employer         : "King's College London"
   uri              : "https://www.kcl.ac.uk/people/silvia-butti"
   email            : "silvia.butti@kcl.ac.uk" 
 
