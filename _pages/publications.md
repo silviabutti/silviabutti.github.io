@@ -43,6 +43,6 @@ author_profile: true
 
 * Symmetries in Constraint Satisfaction: Weisfeiler-Leman Invariance and Promise Problems  
     **PhD thesis**, Department of Information and Communication Technologies, Universitat Pompeu Fabra, 2022. [PDF](files/Thesis_SB.pdf)
-* S. Butti, On the Sparsifiability of Valued Constraint Satisfaction Problems
+* S. Butti, On the Sparsifiability of Valued Constraint Satisfaction Problems  
     **MSc thesis**, Mathematical Institute, University of Oxford, 2018. [PDF](files/Dissertation_Final_Name.pdf)
 
