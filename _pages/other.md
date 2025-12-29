@@ -1,3 +1,12 @@
+---
+permalink: /misc/
+title: "Miscellaneous"
+author_profile: true
+redirect_from: 
+  - /md/
+  - /misc.html
+---
+
 ## Conference Program Committees
 
 - [ICALP26](https://icalppodcspaa2026.cs.rhul.ac.uk/icalp/) (track B)
