@@ -9,9 +9,9 @@ redirect_from:
 
 ## Conference Program Committees
 
-- [ICALP26](https://icalppodcspaa2026.cs.rhul.ac.uk/icalp/) (track B)
-- [CP25](https://cp2025.a4cp.org/)
-- [CP24](https://cp2024.a4cp.org/)
+- [ICALP2026](https://icalppodcspaa2026.cs.rhul.ac.uk/icalp/) (track B)
+- [CP2025](https://cp2025.a4cp.org/)
+- [CP2024](https://cp2024.a4cp.org/)
 
 
 ## Funding
