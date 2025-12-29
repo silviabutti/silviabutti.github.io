@@ -16,9 +16,9 @@ redirect_from:
 
 ## Funding
 
-My postdoc was funded by the UKRI (formerly ERC) grant "New Approaches to Approximability of Satisfiable Problems" (NAASP).  
+My postdoc was funded by the UKRI (formerly ERC) grant "New Approaches to Approximability of Satisfiable Problems" ([NAASP](https://www.cs.ox.ac.uk/standa.zivny/naasp.html)).  
 
-My PhD was jointly supported by the INPhINIT fellowship programme of “la Caixa” foundation, and by the European Union's Horizon 2020 research and innovation programme through the Marie Skłodowska-Curie Action (MSCA) COFUND.
+My PhD was jointly supported by the [INPhINIT fellowship programme](https://lacaixafoundation.org/en/doctoral-inphinit-fellowships) of “la Caixa” foundation, and by the European Union's Horizon 2020 research and innovation programme through the Marie Skłodowska-Curie Action (MSCA) COFUND.
 
 ## Outreach
 
