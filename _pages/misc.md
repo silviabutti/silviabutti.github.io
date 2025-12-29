@@ -44,6 +44,6 @@ I have collaborated with a number of excellent outreach initiatives, including:
 - [Sociedad para el Estudio Multidisciplinar y Fundamental](http://semf.org.es/inicio.html)
 
 
-<img src="images/mwbd.png" alt="Math-with-bad-drawings" style="width:40%">
+<img src="/images/mwbd.png" alt="Math-with-bad-drawings" style="width:40%">
 
 
