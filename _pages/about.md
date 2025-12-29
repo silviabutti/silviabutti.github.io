@@ -6,8 +6,6 @@ redirect_from:
   - /about.html
 ---
 
-## Bio 
-
 **I am a mathematician working in theoretical computer science.** Currently, I am a Lecturer (Assistant Professor) in Computer Science at King's College London, [Department of Informatics](https://www.kcl.ac.uk/informatics).  
 
 Before joining KCL, I was a Senior Research Associate at the University of Oxford, working with [Standa Živný](https://www.cs.ox.ac.uk/standa.zivny/) on the ERC project [NAASP](https://www.cs.ox.ac.uk/standa.zivny/naasp.html). Concurrently, I held a Junior Research Fellowship at [Lady Margaret Hall](https://www.lmh.ox.ac.uk/).  
