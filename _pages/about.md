@@ -1,6 +1,6 @@
 ---
 permalink: /
-title:
+title: "Bio"
 redirect_from: 
   - /about/
   - /about.html
