@@ -43,11 +43,13 @@ I have collaborated with a number of excellent outreach initiatives, including:
 - [Spectra](http://lgbtmath.org/index.html)
 - [Sociedad para el Estudio Multidisciplinar y Fundamental](http://semf.org.es/inicio.html)
 
+<style>
 img {
   display: block;
   margin: auto;
   width: 40%;
 }
+</style>
 <img src="/images/mwbd.png" alt="Math-with-bad-drawings" style="width:40%">
 
 
