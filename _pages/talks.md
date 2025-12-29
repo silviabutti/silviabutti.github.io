@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-### Academic talks
+## Academic talks
 
 - *Optimal Inapproximability of Promise Equations over Finite Groups*
   - [ICALP2025](https://conferences.au.dk/icalp2025), Aarhus, Denmark, July 2025.
