@@ -11,6 +11,15 @@ My postdoc was funded by the UKRI (formerly ERC) grant "New Approaches to Approx
 
 My PhD was jointly supported by the INPhINIT fellowship programme of “la Caixa” foundation, and by the European Union's Horizon 2020 research and innovation programme through the Marie Skłodowska-Curie Action (MSCA) COFUND.
 
+## Outreach
+
+I have collaborated with a number of excellent outreach initiatives, including:
+
+* [Maths Fest](https://maths-fest.com/)
+* [The Royal Institution Masterclasses in Computer Science](https://www.rigb.org/learning/ri-masterclasses)
+* [The UNIQ Summer School](https://www.uniq.ox.ac.uk)
+* [The Oxford Computer Science Challenge Club](https://www.cs.ox.ac.uk/challengeclub/)
+
 
 ## Links
 
