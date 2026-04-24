@@ -11,7 +11,7 @@ redirect_from:
 
 ### Conferences Programme Committees
 
-I have served on the Program Committee of [ICALP'26](https://icalppodcspaa2026.cs.rhul.ac.uk/icalp/), [CP'25](https://cp2025.a4cp.org/), [CP'24](https://cp2024.a4cp.org/), and the [CP'26 Doctoral Program](https://satcpdp26.github.io/).
+I have served on the PC of [ICALP'26](https://icalppodcspaa2026.cs.rhul.ac.uk/icalp/), [CP'25](https://cp2025.a4cp.org/), [CP'24](https://cp2024.a4cp.org/), and the [CP'26 Doctoral Program](https://satcpdp26.github.io/).
 
 ### Peer Reviews
 
