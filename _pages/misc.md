@@ -10,6 +10,7 @@ redirect_from:
 ## Conference Program Committees
 
 - [ICALP2026](https://icalppodcspaa2026.cs.rhul.ac.uk/icalp/) (track B)
+- [CP'26 Doctoral Program](https://satcpdp26.github.io/)
 - [CP2025](https://cp2025.a4cp.org/)
 - [CP2024](https://cp2024.a4cp.org/)
 
