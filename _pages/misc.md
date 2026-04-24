@@ -7,15 +7,16 @@ redirect_from:
   - /misc.html
 ---
 
-## Conference Program Committees
+## Academic Service
 
-- [ICALP2026](https://icalppodcspaa2026.cs.rhul.ac.uk/icalp/) (track B)
-- [CP'26 Doctoral Program](https://satcpdp26.github.io/)
-- [CP2025](https://cp2025.a4cp.org/)
-- [CP2024](https://cp2024.a4cp.org/)
+I have served on the Program Committee of [ICALP'26](https://icalppodcspaa2026.cs.rhul.ac.uk/icalp/) (track B), [CP'25](https://cp2025.a4cp.org/), [CP'24](https://cp2024.a4cp.org/), and the [CP'26 Doctoral Program](https://satcpdp26.github.io/).
+
+I have acted as a (sub)reviewer for CP, CSL, ESA, FOCS, ICALP, LICS, SODA, STACS, TheoretiCS, and ToCT.  
 
 
 ## Funding
+
+I am currently a co-Investigator in the EPSRC grant [Algebraic Methods for Quantified Constraints](https://gtr.ukri.org/projects?ref=EP%2FX03190X%2F1#/tabOverview) (PI: [Barnaby Martin](https://www.durham.ac.uk/staff/barnaby-d-martin/))
 
 My postdoc was funded by the UKRI (formerly ERC) grant "New Approaches to Approximability of Satisfiable Problems" ([NAASP](https://www.cs.ox.ac.uk/standa.zivny/naasp.html)).  
 
