@@ -20,9 +20,9 @@ I have acted as a (sub)reviewer for CP, CSL, ESA, FOCS, ICALP, LICS, SODA, STACS
 
 ## Funding
 
-I am currently a co-Investigator in the EPSRC grant [Algebraic Methods for Quantified Constraints](https://gtr.ukri.org/projects?ref=EP%2FX03190X%2F1#/tabOverview) (PI: [Barnaby Martin](https://www.durham.ac.uk/staff/barnaby-d-martin/))
+I am currently a co-Investigator in the EPSRC grant [Algebraic Methods for Quantified Constraints](https://gtr.ukri.org/projects?ref=EP%2FX03190X%2F1#/tabOverview) (PI: [Barnaby Martin](https://www.durham.ac.uk/staff/barnaby-d-martin/)).
 
-My postdoc was funded by the UKRI (formerly ERC) grant [New Approaches to Approximability of Satisfiable Problems](https://www.cs.ox.ac.uk/standa.zivny/naasp.html).  
+My postdoc was funded by the UKRI (formerly ERC) grant [New Approaches to Approximability of Satisfiable Problems](https://www.cs.ox.ac.uk/standa.zivny/naasp.html) (PI: [Standa Živný](https://www.cs.ox.ac.uk/standa.zivny/)).  
 
 My PhD was jointly supported by the [INPhINIT fellowship programme](https://lacaixafoundation.org/en/doctoral-inphinit-fellowships) of “la Caixa” foundation, and by the European Union's Horizon 2020 research and innovation programme through the Marie Skłodowska-Curie Action (MSCA) COFUND.
 
