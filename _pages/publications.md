@@ -9,10 +9,11 @@ author_profile: true
 
 * *The Sherali-Adams and Weisfeiler-Leman hierarchies in (Promise Valued) Constraint Satisfaction Problems*  
     L. Barto, S. Butti and V. Dalmau  
-    To appear in **ACM Transactions on Computation Theory**, 2025 [PDF](https://arxiv.org/abs/2401.16998) [DOI](https://dl.acm.org/doi/10.1145/3756323)
+    **ACM Transactions on Computation Theory**, 2026 [PDF](https://arxiv.org/abs/2401.16998) [DOI](https://dl.acm.org/doi/10.1145/3756323)
 * *Optimal Inapproximability of Promise Equations over Finite Groups*  
-    S. Butti, A. Larrauri and S. Živný  
-    **ICALP2025** [PDF](https://arxiv.org/abs/2411.01630) [DOI](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ICALP.2025.38)
+    S. Butti, A. Larrauri and S. Živný
+    Submitted, 2025 [PDF](https://arxiv.org/abs/2411.01630) 
+    An extended abstract appeared in **ICALP2025** [DOI](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ICALP.2025.38)
 * *The Rise of Plurimorphisms: Algebraic Approach to Approximation*  
     L. Barto, S. Butti, A. Kazda, C. Viola and S. Živný  
     Submitted, 2025 [PDF](https://arxiv.org/abs/2401.15186)  
