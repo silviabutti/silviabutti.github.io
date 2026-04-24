@@ -8,6 +8,7 @@ author_profile: true
 ## Academic talks
 
 - *Optimal Inapproximability of Promise Equations over Finite Groups*
+  - [Mathematics and Theoretical Physics Seminars](https://hertsmathphys.github.io/), University of Hertfordshire, January 2026.
   - [ICALP2025](https://conferences.au.dk/icalp2025), Aarhus, Denmark, July 2025.
   - [Dagstuhl seminar 25211 The CSP: Complexity and Approximability](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/25211), Schloss Dagstuhl, May 2025.
 - *Constraint Satisfaction Problems: when complexity meets algebra*
@@ -48,6 +49,7 @@ author_profile: true
 
 ## Other conference participation and research visits
 
+- Simons Programme on [Symmetry in Efficient Computation with Local Constraints](https://simons.berkeley.edu/programs/symmetry-efficient-computation-local-constraints/workshops#simons-tabs), Berkeley, January-April 2027.
 - [Dagstuhl Seminar 26391 Finite Stability Theory](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/26391), Schloss Dagstuhl, September 2026.
 - [Mathematics of Constraint Satisfaction Problems](https://durham.csp-seminar.org/), Durham, April 2026.
 - [Finite and Algorithmic Model Theory 2025](https://fmt25.labri.fr/index.html), Les Houches, May 2025.
