@@ -9,7 +9,11 @@ redirect_from:
 
 ## Academic Service
 
-I have served on the Program Committee of [ICALP'26](https://icalppodcspaa2026.cs.rhul.ac.uk/icalp/) (track B), [CP'25](https://cp2025.a4cp.org/), [CP'24](https://cp2024.a4cp.org/), and the [CP'26 Doctoral Program](https://satcpdp26.github.io/).
+# Conferences Programme Committees
+
+I have served on the Program Committee of [ICALP'26](https://icalppodcspaa2026.cs.rhul.ac.uk/icalp/), [CP'25](https://cp2025.a4cp.org/), [CP'24](https://cp2024.a4cp.org/), and the [CP'26 Doctoral Program](https://satcpdp26.github.io/).
+
+# Peer Reviews
 
 I have acted as a (sub)reviewer for CP, CSL, ESA, FOCS, ICALP, LICS, SODA, STACS, TheoretiCS, and ToCT.  
 
@@ -47,7 +51,8 @@ I have collaborated with a number of excellent outreach initiatives, including:
 
 
 
-
+<br>
+<br>
 
 
 
