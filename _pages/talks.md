@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: ""
+title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
-
+#
 ## Academic talks
 
 - *Optimal Inapproximability of Promise Equations over Finite Groups*
