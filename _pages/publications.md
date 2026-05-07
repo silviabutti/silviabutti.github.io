@@ -33,7 +33,7 @@ author_profile: true
     An extended abstract appeared in **STACS2021** [PDF](https://arxiv.org/pdf/2007.13594) [DOI](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.STACS.2021.20)
 * *Stochastic Local Search Algorithms for Constraint Satisfaction*  
     S. Butti and V. Dalmau  
-    **CP2020** doctoral program [PDF](files/CP2020_SButti_camera-ready.pdf)
+    **CP2020** doctoral program [PDF](/files/CP2020_SButti_camera-ready.pdf)
 * *Sparsification of Binary CSPs*  
     S. Butti and S. Živný  
     **SIAM Journal on Discrete Mathematics**, 2020. [PDF](https://arxiv.org/pdf/1901.00754) [DOI](https://epubs.siam.org/doi/10.1137/19M1242446)  
@@ -43,7 +43,7 @@ author_profile: true
 ## Theses
 
 * Symmetries in Constraint Satisfaction: Weisfeiler-Leman Invariance and Promise Problems  
-    **PhD thesis**, Department of Information and Communication Technologies, Universitat Pompeu Fabra, 2022. [PDF](files/Thesis_SB.pdf)
+    **PhD thesis**, Department of Information and Communication Technologies, Universitat Pompeu Fabra, 2022. [PDF](/files/Thesis_SB.pdf)
 * S. Butti, On the Sparsifiability of Valued Constraint Satisfaction Problems  
-    **MSc thesis**, Mathematical Institute, University of Oxford, 2018. [PDF](files/Dissertation_Final_Name.pdf)
+    **MSc thesis**, Mathematical Institute, University of Oxford, 2018. [PDF](/files/Dissertation_Final_Name.pdf)
 
