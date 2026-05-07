@@ -60,13 +60,19 @@ author_profile: true
 - [Oxbridge Women in Computer Science Conference](https://www.cs.ox.ac.uk/conferences/Oxbridge2024/), Oxford, May 2024 **(invited panelist)**.
 - [Computer Science Postdoctoral Networking Evening](files/schedule.pdf), Oxford, May 2024 **(organizer)**.
 - [Cambridge Algorithms and Complexity Workshop](https://www.cl.cam.ac.uk/~tg508/cacw2024.html), Cambridge, April 2024.
+  <!--  
 - [Talking Maths in Public](https://talkingmathsinpublic.uk/), Newcastle, August 2023.
+  --> 
 - [Spring School in Theoretical Computer Science: Le Kaléidoscope de la Complexité](https://epit2023.sciencesconf.org/), Ile d'Oléron, June 2023.
 - [One-Day Meeting in Combinatorics](https://people.maths.ox.ac.uk/scott/one-day_meeting.htm), Oxford, May 2023.
+  <!-- 
 - Visiting [Libor Barto](https://www.karlin.mff.cuni.cz/~barto/research.html) at Charles University, Prague, April 2023.
+  -->
 - [CWC2022](https://cwc.csp-seminar.org/), Molveno, September 2022 **(organizer)**.
 - [Structure meets Power 2022](https://www.cst.cam.ac.uk/conference/structure-meets-power-2022), Online, June 2022.
+  <!--
 - Visiting [Libor Barto](https://www.karlin.mff.cuni.cz/~barto/research.html) at Charles University, Prague, June-September 2021.
+  -->
 - [AAA100 - Arbeitstagung Allgemeine Algebra](http://aaa.tcs.uj.edu.pl/), Online, February 2021.
 - [When deep learning meets logic](https://research.samsung.com/news/-When-deep-learning-meets-logic-a-three-days-virtual-workshop-on-neural-symbolic-integration-sponsored-by-Samsung-Research), Online, February 2021.
 - [6th Heidelberg Laureate Forum](https://www.heidelberg-laureate-forum.org/), Heidelberg, September 2018.
