@@ -8,7 +8,8 @@ author_profile: true
 <br>
 
 * **KCL** (Lecturer)
-    * Foundations of Computing II (2025)
+    * Logic and Knowledge Representation (2026)
+    * Foundations of Computing II (2025-2026)
 
 * **University of Oxford** (TA)
     * Combinatorial Optimization (2024)
