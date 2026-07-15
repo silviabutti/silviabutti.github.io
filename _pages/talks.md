@@ -50,7 +50,10 @@ author_profile: true
 ## Other conference participation and research visits
 
 - Simons Programme on [Symmetry in Efficient Computation with Local Constraints](https://simons.berkeley.edu/programs/symmetry-efficient-computation-local-constraints/workshops#simons-tabs), Berkeley, January-April 2027.
+- [AAA110](https://tu-dresden.de/mn/math/algebra/forschung/tagungen/aaaseries/aaa110), Dresden, March 2027.
 - [Dagstuhl Seminar 26391 Finite Stability Theory](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/26391), Schloss Dagstuhl, September 2026.
+- [CWC2026](https://cspworldcongress.org/), Livigno, September 2026.
+- [Logic + GNNs](https://pwalega.github.io/logic-gnn-2026/), London, June 2026.
 - [Mathematics of Constraint Satisfaction Problems](https://durham.csp-seminar.org/), Durham, April 2026.
 - [Finite and Algorithmic Model Theory 2025](https://fmt25.labri.fr/index.html), Les Houches, May 2025.
 - [Dagstuhl seminar 25081 Semirings in Databases, Automata, and Logic](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/25081), Schloss Dagstuhl, February 2025.
